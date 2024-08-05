@@ -50,3 +50,10 @@ def main():
         
 main()
 # ya con eso llega un mensaje :D.
+
+"""
+powershell
+    ipconfig
+    10.21.60.x
+    10.21.90.x
+"""
